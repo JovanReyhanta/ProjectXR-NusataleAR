@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/SamplesResources/Scenes/0-Main.unity
+    guid: a09cb257d566c489595b16ab37547666
+  - enabled: 1
+    path: Assets/Scenes/Bumper.unity
+    guid: 3be1ee4f26f59ce4db6b4a44e9bb6cd0
+  - enabled: 0
+    path: Assets/Scenes/HomeScene.unity
+    guid: c76a49dbda2ae8e4e8465dadc11d68cf
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 27047958e93c5a4478158a0c077e51ec
+  - enabled: 1
+    path: Assets/Scenes/TangkubanPerahuMenu.unity
+    guid: 1e96226c91a1dde478f7ef1a1d4bf6e8
+  - enabled: 1
+    path: Assets/Scenes/TangkubanCollection.unity
+    guid: 528627dbfa343714d86cd6e90c5f8ef0
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 0
+    path: Assets/Scenes/Tugas1-PinchToScale.unity
+    guid: cf1e28672b5dcbc4ea77701b2609ad80
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0

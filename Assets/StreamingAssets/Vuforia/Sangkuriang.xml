@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Kertu5-Front" size="1.000000 1.414427" />
+    <ImageTarget name="Kartu3-Front" size="1.000000 1.414427" />
+    <ImageTarget name="Kartu2-Front" size="1.000000 1.414427" />
+    <ImageTarget name="Kartu1-Front" size="1.000000 1.414427" />
+    <ImageTarget name="Kartu4-Front" size="1.000000 1.414427" />
+  </Tracking>
+</QCARConfig>
